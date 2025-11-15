@@ -18,6 +18,7 @@ g++ -std=c++17 -O2 -Wall -o parsejson.exe json_parser.cpp
 Usage:
 
                                 • Basic usage
+                                drag the exe file into C:\Program Files (x86)\Steam\steamapps\common\FPSAimTrainer\FPSAimTrainer\Saved\SaveGames\Playlists and open it and youll get a results.txt file
 
         
 
@@ -52,6 +53,7 @@ Usage:
                               ^                                                                                                                     ^  ^
                               ^ compiled EXE file name                                                                                              ^  ^ Outputs author/creators steam username + ID
                                                                                                                                                     ^ adds the description of the playlist
+
 
 
 
