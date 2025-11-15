@@ -47,12 +47,13 @@ Usage:
                                   •  .\json_parser.exe -n myfile.txt (output to parent_dir\myfile.txt)
                                   •  .\json_parser.exe -o C:\output -n custom.txt (output to C:\output\custom.txt)
                                   •  .\json_parser.exe -o C:\output (output to C:\output\results.txt)
-                          •  .\parsejson.exe 'C:\Program Files (x86)\Steam\steamapps\common\FPSAimTrainer\FPSAimTrainer\Saved\SaveGames\Playlists' -d -a -n mreow.txt -o C:\Users\Violet\Desktop\output
+                          •  .\parsejson.exe "C:\Program Files (x86)\Steam\steamapps\common\FPSAimTrainer\FPSAimTrainer\Saved\SaveGames\Playlists" -d -a -n mreow.txt -o C:\Users\Violet\Downloads\NAME\output
                               ^               ^ path to where your kovaaks local files are and then playlists                                       ^   ^                ^ changes where the results file is put
                               ^                                                                                                                     ^  ^  ^ changes the name of the results file
                               ^                                                                                                                     ^  ^
                               ^ compiled EXE file name                                                                                              ^  ^ Outputs author/creators steam username + ID
                                                                                                                                                     ^ adds the description of the playlist
+
 
 
 
